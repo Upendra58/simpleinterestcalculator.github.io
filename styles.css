@@ -1,0 +1,40 @@
+body {
+    background-color:#F2B63D;
+    font-family: arial;
+    color:white;
+    display: flex;
+    justify-content: center;
+    }
+     
+    
+h1{
+color:#122543;
+font-family: verdana;
+}
+    
+    
+.maindiv {
+    background-color: #B7BAC3;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius: 25px;
+       
+} 
+    
+.center{
+    width:400px;
+    padding:20px;
+    margin-left:25px;
+}
+.Center > button {
+    border: 0;
+    margin: 15px 0;
+    background-color: #f1c40f;
+    font-weight: 400;
+  }
+  
+  .center > button:hover {
+    background-color: #5CD2C6;
+    transition: background-color 1s;
+  }
